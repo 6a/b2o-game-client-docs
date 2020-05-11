@@ -1,0 +1,14 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,157,75,184"/>
+<area shape="rect" id="node2" href="$db/de5/class_u_b2_card_animator.html" title=" " alt="" coords="123,5,249,32"/>
+<area shape="rect" id="node3" href="$db/ddf/class_u_b2_card_factory.html" title=" " alt="" coords="127,56,245,83"/>
+<area shape="rect" id="node4" href="$d8/d69/class_u_b2_dealer.html" title=" " alt="" coords="144,107,228,133"/>
+<area shape="rect" id="node5" href="$d2/d02/class_u_b2_opponent.html" title=" " alt="" coords="135,157,237,184"/>
+<area shape="rect" id="node8" href="$dd/d5d/class_u_b2_server.html" title=" " alt="" coords="145,208,227,235"/>
+<area shape="rect" id="node11" href="$d2/d79/class_u_b2_u_i_effect_layer.html" title=" " alt="" coords="124,259,248,285"/>
+<area shape="rect" id="node12" href="$d5/d84/class_u_settings.html" title=" " alt="" coords="147,309,225,336"/>
+<area shape="rect" id="node6" href="$d4/d4d/class_u_b2_a_i_opponent.html" title=" " alt="" coords="301,107,416,133"/>
+<area shape="rect" id="node7" href="$d7/db8/class_u_b2_net_opponent.html" title=" " alt="" coords="297,157,420,184"/>
+<area shape="rect" id="node9" href="$db/df7/class_u_b2_a_i_server.html" title=" " alt="" coords="311,208,406,235"/>
+<area shape="rect" id="node10" href="$d9/dc7/class_u_b2_net_server.html" title=" " alt="" coords="307,259,410,285"/>
+</map>

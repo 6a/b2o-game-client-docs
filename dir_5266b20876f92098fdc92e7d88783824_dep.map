@@ -1,0 +1,40 @@
+<map id="Source/BladeIIGame/CPP/B2Engine" name="Source/BladeIIGame/CPP/B2Engine">
+<area shape="rect" id="node3" href="dir_60274b8dc7fc16ed731988bfe0c36d5b.html" title="B2Utility" alt="" coords="284,482,356,530"/>
+<area shape="rect" id="edge18-headlabel" href="dir_000003_000010.html" title="34" alt="" coords="261,477,275,492"/>
+<area shape="rect" id="node4" href="dir_f727cd72c47719af89788f76d8290d42.html" title="B2Predicate" alt="" coords="411,98,504,146"/>
+<area shape="rect" id="edge19-headlabel" href="dir_000003_000008.html" title="8" alt="" coords="441,70,449,85"/>
+<area shape="rect" id="node5" href="dir_e8b4c694ace2b05df6ce74a4853a6d3b.html" title="B2Enum" alt="" coords="284,578,356,626"/>
+<area shape="rect" id="edge20-headlabel" href="dir_000003_000005.html" title="21" alt="" coords="260,577,275,592"/>
+<area shape="rect" id="node6" href="dir_a2e3ea606e1a7c575ac871e1b965b00c.html" title="B2UI" alt="" coords="173,386,245,434"/>
+<area shape="rect" id="edge21-headlabel" href="dir_000003_000009.html" title="1" alt="" coords="169,360,177,374"/>
+<area shape="rect" id="node7" href="dir_b35aa57eba537f13b91b7aa7642c5cd8.html" title="B2Game" alt="" coords="347,194,421,242"/>
+<area shape="rect" id="edge22-headlabel" href="dir_000003_000006.html" title="10" alt="" coords="324,189,339,204"/>
+<area shape="rect" id="node8" href="dir_ffdc4ac5370f836fc3a365245a440d1a.html" title="B2GameMode" alt="" coords="157,290,262,338"/>
+<area shape="rect" id="edge23-headlabel" href="dir_000003_000007.html" title="21" alt="" coords="197,263,212,277"/>
+<area shape="rect" id="node2" href="dir_1f61357476e147f725f8ca26a17b5e94.html" title="GameStateMachine" alt="" coords="241,98,378,146"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000004_000010.html" title="16" alt="" coords="352,466,367,480"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000004_000008.html" title="3" alt="" coords="388,106,396,121"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000004_000005.html" title="4" alt="" coords="366,565,374,579"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000004_000006.html" title="1" alt="" coords="357,167,365,182"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000004_000007.html" title="20" alt="" coords="249,276,264,290"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000010_000005.html" title="1" alt="" coords="324,552,332,567"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000008_000010.html" title="1" alt="" coords="372,472,380,487"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000008_000005.html" title="3" alt="" coords="372,592,380,606"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000008_000006.html" title="3" alt="" coords="407,176,415,191"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000009_000010.html" title="7" alt="" coords="281,456,289,471"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000009_000005.html" title="5" alt="" coords="296,550,304,565"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000009_000007.html" title="5" alt="" coords="206,350,214,364"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000006_000010.html" title="5" alt="" coords="333,458,341,473"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000006_000008.html" title="3" alt="" coords="426,149,434,163"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000006_000005.html" title="5" alt="" coords="354,560,362,575"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000006_000009.html" title="1" alt="" coords="245,371,253,385"/>
+<area shape="rect" id="edge17-headlabel" href="dir_000006_000007.html" title="2" alt="" coords="260,281,268,295"/>
+<area shape="rect" id="edge29-headlabel" href="dir_000007_000003.html" title="32" alt="" coords="169,158,183,173"/>
+<area shape="rect" id="edge25-headlabel" href="dir_000007_000004.html" title="19" alt="" coords="274,151,289,165"/>
+<area shape="rect" id="edge24-headlabel" href="dir_000007_000010.html" title="1" alt="" coords="304,454,312,469"/>
+<area shape="rect" id="edge26-headlabel" href="dir_000007_000005.html" title="3" alt="" coords="272,553,280,568"/>
+<area shape="rect" id="edge27-headlabel" href="dir_000007_000009.html" title="5" alt="" coords="205,360,213,374"/>
+<area shape="rect" id="edge28-headlabel" href="dir_000007_000006.html" title="4" alt="" coords="325,236,333,251"/>
+<area shape="rect" id="clust2" href="dir_5266b20876f92098fdc92e7d88783824.html" alt="" coords="127,87,389,156"/>
+<area shape="rect" id="clust1" href="dir_9c3b34c65978ecb7ffa9808eab90d6dc.html" title="CPP" alt="" coords="116,51,400,167"/>
+</map>

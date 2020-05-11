@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d2/d4e/class_g_s_m___state.html" title=" " alt="" coords="5,436,96,463"/>
+<area shape="rect" id="node2" href="$d5/da4/class_g_s_m___state___draw_to_empty_field.html" title=" " alt="" coords="150,5,357,32"/>
+<area shape="rect" id="node3" href="$dc/d2f/class_g_s_m___state___opponent_blast.html" title=" " alt="" coords="162,56,345,83"/>
+<area shape="rect" id="node4" href="$d1/de7/class_g_s_m___state___opponent_blast_target.html" title=" " alt="" coords="144,107,363,133"/>
+<area shape="rect" id="node5" href="$d9/d4a/class_g_s_m___state___opponent_bolt.html" title=" " alt="" coords="165,157,341,184"/>
+<area shape="rect" id="node6" href="$d2/ddb/class_g_s_m___state___opponent_force.html" title=" " alt="" coords="160,208,347,235"/>
+<area shape="rect" id="node7" href="$dc/d63/class_g_s_m___state___opponent_mirror.html" title=" " alt="" coords="160,259,347,285"/>
+<area shape="rect" id="node8" href="$de/d07/class_g_s_m___state___opponent_rod.html" title=" " alt="" coords="165,309,341,336"/>
+<area shape="rect" id="node9" href="$d3/deb/class_g_s_m___state___opponent_turn.html" title=" " alt="" coords="164,360,343,387"/>
+<area shape="rect" id="node10" href="$d7/d70/class_g_s_m___state___player_blast.html" title=" " alt="" coords="171,411,335,437"/>
+<area shape="rect" id="node11" href="$df/d1a/class_g_s_m___state___player_blast_target.html" title=" " alt="" coords="153,461,353,488"/>
+<area shape="rect" id="node12" href="$d6/d08/class_g_s_m___state___player_bolt.html" title=" " alt="" coords="175,512,332,539"/>
+<area shape="rect" id="node13" href="$d7/dfc/class_g_s_m___state___player_force.html" title=" " alt="" coords="170,563,337,589"/>
+<area shape="rect" id="node14" href="$d3/d94/class_g_s_m___state___player_mirror.html" title=" " alt="" coords="170,613,337,640"/>
+<area shape="rect" id="node15" href="$da/d3a/class_g_s_m___state___player_rod.html" title=" " alt="" coords="175,664,332,691"/>
+<area shape="rect" id="node16" href="$de/d95/class_g_s_m___state___player_turn.html" title=" " alt="" coords="174,715,333,741"/>
+<area shape="rect" id="node17" href="$d2/d05/class_g_s_m___state___post_game.html" title=" " alt="" coords="174,765,333,792"/>
+<area shape="rect" id="node18" href="$d1/dc9/class_g_s_m___state___process_board_state.html" title=" " alt="" coords="148,816,359,843"/>
+<area shape="rect" id="node19" href="$d6/d4d/class_g_s_m___state___waiting_for_initial_deal.html" title=" " alt="" coords="145,867,361,893"/>
+</map>
